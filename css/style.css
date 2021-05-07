@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: bordex-Box;
+}
+
+body {
+  color: blue;
+}
+
+div {
+  border: 1px solid #FFFF00;
+}
